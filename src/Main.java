@@ -8,7 +8,7 @@ public class Main {
         Book book2 = new Book("Catcher in the Rye", author2, 1951);
         Book book3 = new Book("Animal Farm", author3, 1945);
 
-        book2.setYear(1832);
+        book2.setYear(1835);
 
     }
 }
